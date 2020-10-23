@@ -20,7 +20,7 @@ These data are critical to Pyber's planning process for the next fiscal year. Si
 ## Analytics Summary
 ![Pyber Q1 & Q2 Summary](https://github.com/zborglin/Pyber_Analysis/blob/main/Resources/Pyber_summary.png)
 #
-![Pyber Q1 & Q2 Fare Collected Over Time](https://github.com/zborglin/Pyber_Analysis/blob/main/Resources/Pyber_summary.png)
+![Pyber Q1 & Q2 Fare Collected Over Time](https://github.com/zborglin/Pyber_Analysis/blob/main/Resources/Pyber_fare_plot.png)
 
 ## Results
 The ride sharing data (Q1-Q2 2019) reveals important differences between the rural, suburban, and urban cities within the Pyber portfolio. 
@@ -33,3 +33,6 @@ The ride sharing data (Q1-Q2 2019) reveals important differences between the rur
 - **More revenue** is collected **per driver in rural towns** than in **urban centers**.
 3. Over the Q1-Q2 period, revenues increased in urban and suburban cities but decreased in rural cities.
 4. All city types saw a bump in revenue mid to late February, suggesting increased usage for Presidents Day Weekend.
+
+## Strategic Recommendations
+1. 
